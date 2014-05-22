@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://comunitadigitali.github.io/sitemap.xml 
